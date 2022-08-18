@@ -10,5 +10,6 @@ public class mentor {
         cars.add("ford");
         cars.add("mazda");
         System.out.println(cars.add("ferrari"));
+        System.out.println(cars);
     }
 }
